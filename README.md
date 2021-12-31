@@ -1,6 +1,8 @@
 # International-Greenhouse-Gases-Emission-Analysis
 
-## 1) Analysis:
+#### Implemented using R language
+
+## Project Analysis:
 
 ### Datasets Used: greenhouse_gas_inventory_data_data.csv, CO2Emission_LifeExp.csv
 
@@ -8,10 +10,12 @@ Original Dataset Link (from Kaggle) for greenhouse gas inventory dataset: https:
 
 Original Dataset Link (from Kaggle) for CO2 Emissions Life Expectancy dataset: https://www.kaggle.com/sansuthi/global-co2-emissions
 
-### Analysis: 
+### Data Analysis:
+
 Performed Exploratory Data Analysis for the chosen dataset, wherein, many of the basic questions have been answered regarding countries and the type of greenhouse gases emitted. 
 
-Have also performed Data Visualisation to present the inferences in a more presentable and clear way. 
+Have also performed numerous data visualisations to present the inferences in a more presentable and clear way.                                                           
 
+Implemented machine learning models, namely, kNN, PCA and Linear Regression.
 
-
+Included two other algorithms as a part of novelity in the project, namely, Bar Joseph's Seration Algorithm and Bertin's Permutation Matrix.
